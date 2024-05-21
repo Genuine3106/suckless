@@ -11,7 +11,7 @@ Again, I really only made this for myself (NOT TO BE SELFISH), but you're open t
 [![screenshot.png](https://i.postimg.cc/3rjKZHCL/screenshot.png)](https://postimg.cc/Yj9KpZPg)
 
 # this tutorial is awesome: https://www.youtube.com/watch?v=6MaTMuFVGck
-also make sure you configue ur .xinitrc to do the cool things automatically. Mine is: 
+also make sure you configue ur .xinitrc to do the cool things automatically. Mine is: <br/>
 ~/.fehbg &<br/>
 picom -b<br/>
 slstatus &<br/>
