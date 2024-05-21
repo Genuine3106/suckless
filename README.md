@@ -8,4 +8,6 @@ I even added the patches folder so you can see what I did.<br/><br/>
 
 Again, I really only made this for myself (NOT TO BE SELFISH), but you're open to use it. However I really recommend you to make your own config, and to only use my config if you already know how to do everything and want to save time.<br/><br/>
 
+!alt text (https://postimg.cc/FYfH71ny)
+
 # this tutorial is awesome: https://www.youtube.com/watch?v=6MaTMuFVGck
