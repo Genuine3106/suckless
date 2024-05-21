@@ -12,11 +12,11 @@ Again, I really only made this for myself (NOT TO BE SELFISH), but you're open t
 
 # this tutorial is awesome: https://www.youtube.com/watch?v=6MaTMuFVGck
 also make sure you configue ur .xinitrc to do the cool things automatically. Mine is : 
-`~/.fehbg & <br/>
-picom -b<br/>
-slstatus &<br/>
-exec dwm<br/>
-`
+``~/.fehbg &
+picom -b
+slstatus &
+exec dwm
+``
 
 [comment]: <> (DONT COPY THE <br/>S IF YOU'RE IN THE README FILE FOR SOME REASON!!!!!!!
 <br/>
