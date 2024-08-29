@@ -11,12 +11,8 @@ Again, I really only made this for myself (NOT TO BE SELFISH), but you're open t
 [![screenshot.png](https://i.postimg.cc/3rjKZHCL/screenshot.png)](https://postimg.cc/Yj9KpZPg)
 
 # this tutorial is awesome: https://www.youtube.com/watch?v=6MaTMuFVGck
-also make sure you configue ur .xinitrc to do the cool things automatically. Mine is: <br/>
-~/.fehbg &<br/>
-picom -b<br/>
-slstatus &<br/>
-exec dwm<br/>
 
-<br/>
-Also, you have to configure feh to display your background, the command should be `feh --bg-center /path/to/wallpaper/` <br/>
+
+update 8/28/24 (m/d/y) <br/>
+uhhhhhhhhhhhhhhhhhhh idk 
 
